@@ -1,5 +1,5 @@
 ---
-title: "Learning Computing - Initiative"
+title: "Learning - Initiative"
 ---
 
 This is a Quarto website.
