@@ -5,7 +5,7 @@ learning-initiative
 
 Part of "Learning" at https://github.com/vanHeemstraSystems/learning
 
-Can be read as "Learning - Initiative" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
+Can be read as "Learning - Initiative" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
 
 Can be browsed as "Learning - Initiative" at https://vanheemstrasystems.github.io/learning-initiative/
 
